@@ -4,4 +4,4 @@ Pretrained model source:
 * [keras](https://keras.io/api/applications/)
 * [modelzoo](https://modelzoo.co/)
 * [paperswithcode](https://paperswithcode.com/)
-* [github fchollet](https://github.com/fchollet/deep-learning-models)
+* [Francois Chollet co-creator of Keras](https://github.com/fchollet/deep-learning-models)
